@@ -1,4 +1,4 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/developerasun/developerasun)
+![GitHub last commit](https://img.shields.io/github/last-commit/developerasun/comu)
 ![Static Badge](https://img.shields.io/badge/Is_Jake_Working_On_This_Now-Yes-green)
 
 [![Coffee Chat](https://img.shields.io/badge/Coffee_Chat-795548?style=for-the-badge&logo=coffeescript&logoColor=white)](https://forms.gle/QrFAaXgbLnsxywhA7)
@@ -7,11 +7,11 @@
 
 <div align="center">
 
-<img src="./docs/logo.svg" width="40%" />
+<img src="./docs/logo.png" width="40%" />
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum euismod tellus at blandit tempor.
+Programmable Lofi with [strudel](https://codeberg.org/uzu/strudel). <br/> Build your own background music with LLM.
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/developerasun/reponame)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/developerasun/comu)
 ![Static Badge](https://img.shields.io/badge/license-MIT-blue)
 
 <img src="./docs/demo.gif" width="100%" />
